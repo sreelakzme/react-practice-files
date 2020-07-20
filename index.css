@@ -57,9 +57,17 @@ button{
     /* margin-left: 10px; */
     box-shadow: rgb(29, 11, 11);
 }
-button:hover{
+/* button:hover{
     background-color: tomato;
+} */
+.Btn_green:hover{
+    color: #054408
 }
+.Btn_red:hover{
+    color: #ad161e
+}
+
+
 .btn_div{
     width: 100%;
     display: flex;
